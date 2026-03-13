@@ -9,9 +9,12 @@ Passionate about building modern web applications and JavaFX desktop apps.
 
 ## 🚀 About Me
 
-* 🌱 I’m currently learning **Full Stack Development**
-* 💻 I build **Web Applications and JavaFX Applications**
-* 🎨 Interested in **Frontend Development & UI Design**
+* 🌱 About Me I’m an **Undergraduate Software Engineering student** with practical experience in **full-stack web and mobile development**.  
+
+* 💻 I build **Web Applications and JavaFX Applications**, focusing on **responsive and scalable solutions**.  
+
+* 🎨 Interested in **Frontend Development & UI Design**, and passionate about writing **clean, maintainable code**.
+  
 * 📍 From **Sri Lanka**
 
 ---
@@ -25,12 +28,23 @@ Passionate about building modern web applications and JavaFX desktop apps.
 * JavaScript
 * Bootstrap
 * React
+* Tailwind CSS
+* React Native
 
 ### 💻 Programming
 
 * Java
 * JavaFX
 * Python
+* JavaScript
+* TypeScript
+
+### 🌐 Backend
+
+* Node.js
+* Express.js
+* Spring Boot
+* RESTful API Development
 
 ### ⚙ Tools
 
@@ -39,19 +53,6 @@ Passionate about building modern web applications and JavaFX desktop apps.
 * IntelliJ IDEA
 * VS Code
 * Postman
-
----
-
-## 📌 Featured Projects
-
-🔹 **POS System**
-Web-based POS system with customer, item, and order management.
-
-🔹 **Portfolio Website**
-Responsive portfolio website with modern UI design.
-
-🔹 **JavaFX Application**
-Desktop management system using JavaFX.
 
 ---
 
