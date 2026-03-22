@@ -67,7 +67,7 @@ Passionate about building modern web applications and JavaFX desktop apps.
 ## 📫 Connect With Me
 
 * 📧 Email: [hirushasilva222@gmail.com](mailto:hirushasilva222@gmail.com)
-* 🌐 Portfolio: [your-portfolio-link](https://hirusha-silva.github.io/My-portfolio/)
+* 🌐 Portfolio: [portfolio](https://hirusha-silva.github.io/My-portfolio/)
 
 ---
 
